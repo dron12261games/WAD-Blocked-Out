@@ -14,7 +14,7 @@ maps
 			resource0
 			{
 				type = 0;
-				location = "F:\\1_UP_1\\Doom\\Blocked Out\\Blocked-Out_Assets.wad";
+				location = "D:\\ABSOLUTE POWER\\Doom\\DRON12261 Projects\\WAD-Blocked-Out\\Blocked-Out_Assets.wad";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
@@ -24,7 +24,7 @@ maps
 			resource1
 			{
 				type = 0;
-				location = "F:\\1_UP_1\\Doom\\Zandronum 3.1\\DOOM2.WAD";
+				location = "D:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
@@ -48,9 +48,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = -220.2731f;
-		viewpositiony = 1684.809f;
-		viewscale = 1.856462f;
+		viewpositionx = -258.3871f;
+		viewpositiony = 254.6087f;
+		viewscale = 0.2275827f;
 		
 		grid
 		{
@@ -60,7 +60,7 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 16;
+			gridsize = 128;
 			gridrotate = 0;
 			gridoriginx = 0;
 			gridoriginy = 0;
