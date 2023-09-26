@@ -5,6 +5,6 @@
 ## Resources in use:
 - Blocked-Out_Assets.wad (in this repo)
 
-# Actual screenshots:
+# Screenshots:
 ![Screen1](./screens/1.png)
 ![Screen2](./screens/2.png)
